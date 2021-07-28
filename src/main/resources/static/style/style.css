@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.btnLogAdmin {
+    margin-top: 34%;
+    margin-left: 93%;
+}
+
+.mainText {
+    padding-top: 5%;
+    text-align: center;
+}
+
+.info {
+    padding-top: 1%;
+    font-size: 20px;
+    text-align: center;
+}
+.reg {
+     display: inline-block;
+     width: 450px;
+}
+
+.registerForm {
+    margin-top: 1%;
+    margin-left: 38%;
+}
+
+.loginForm {
+    margin-top: 15%;
+}
+
+.controlPanelForm {
+    margin-top: 10%;
+}
+
+.addedMessage {
+    margin-top: 5%;
+    padding-top: 3%;
+}
+
